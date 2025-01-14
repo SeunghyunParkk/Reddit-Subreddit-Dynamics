@@ -1,5 +1,8 @@
 # Reddit Subreddit Dynamics: Homophily vs. Influence
 
+![Dog Subreddit Analysis](Reddit_image.jpg)
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
